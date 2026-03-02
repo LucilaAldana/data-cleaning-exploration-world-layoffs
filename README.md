@@ -1,6 +1,6 @@
 ### data-cleaning-exploration-world-layoffs
 
-# Data Cleaning and Exploratory Analysis of World Layoffs in MySQL
+# Data Cleaning & Exploratory Analysis of World Layoffs in MySQL
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
