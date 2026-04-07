@@ -38,4 +38,4 @@ Key insights supported by the analysis include identifying industries most affec
 
 This project simulates a real-world data preparation workflow where raw operational data must be cleaned, validated, and structured before being used for business intelligence or decision-making.
 
-Tools Used: MySQL / SQL Window Functions / Data Cleaning / Exploratory Data Analysis / Data Validation / Generative AI
+Tools Used: MySQL / Generative AI / SQL Window Functions / Data Cleaning / Exploratory Data Analysis / Data Validation
